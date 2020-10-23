@@ -1,4 +1,3 @@
-import request from "request";
 import got from "got";
 
 import catchError from "./utils/catchError";
