@@ -2,7 +2,7 @@ import { home } from "../configs/routes";
 
 import Home from "../pages/Home";
 
-const homeRoute = [
+const HomeRoute = [
   {
     path: home,
     exact: true,
@@ -11,4 +11,4 @@ const homeRoute = [
   },
 ];
 
-export default homeRoute;
+export default HomeRoute;
