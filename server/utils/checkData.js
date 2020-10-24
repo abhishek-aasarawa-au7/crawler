@@ -28,7 +28,7 @@ const checkData = (data, checkWith) => {
         let idx = data.stars.findIndex(
           (star) => star.toLowerCase() === checkWith[key].toLowerCase()
         );
-        if (idx !== -1) return false;
+        if (idx === -1) return false;
       }
     }
   }

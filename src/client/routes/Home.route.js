@@ -1,5 +1,5 @@
 import { home } from "../configs/routes";
-import Home from "../pages/home";
+import Home from "../pages/Home";
 
 const homeRoute = [
   {
