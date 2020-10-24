@@ -1,5 +1,5 @@
 import { search } from "../configs/routes";
-import SearchResult from "../pages/SearchResult";
+import SearchResult from "../pages/SearchPage";
 
 const SearchRoute = [
   {
