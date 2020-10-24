@@ -17,6 +17,7 @@ const Home = ({ history }) => {
       title: "",
       director: "",
       star: "",
+      genre: "",
     },
 
     validationSchema: Yup.object({
